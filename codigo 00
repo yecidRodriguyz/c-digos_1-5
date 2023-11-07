@@ -1,0 +1,21 @@
+#primer programa que escribes en un nuevo lenguaje 
+
+print("********************************************************************************************************************************************************************************************************")
+
+print("hello,world")
+               
+               
+print("\n              El texto  en pantalla sirve de interaccion con el usuario de un programa \n               es prescindible. sin embargo\n               una adecuada interfz prermite  claridad en la ejecucion")
+
+                        
+print("********************************************************************************************************************************************************************************************************")
+                        
+print("Autores")
+print("Cristian Galvis")
+print("Yesid Rodriguez")
+print("FICHA: 2749613")
+print("18/10/2023")
+print("PROGRAMA DE FORMACION: DISEÑO DE INTEGRACION DE AUTOMATIMOS MECATRONCOS")
+print("********************************************************************************************************************************************************************************************************")
+
+
